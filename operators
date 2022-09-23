@@ -95,17 +95,4 @@ y2=int(input())
 m1=(x1+x2)/2
 m2=(y1+y2)/2
 print(f"binoy's house is located at",(m1,m2))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
